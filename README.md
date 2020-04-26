@@ -15,4 +15,4 @@ the stock boards and is 32bit, 256K (512K undocumented), this versus the 8bit, 1
 Note:
 The SKR Mini5.stl is the one I finally used. It is a printable adapter plate from printrboard to SKR MINI. It orients the board 90degrees to the original board position. It lines the MicrSD on the board with the SD port in the Play chassis. This allowed me to use a Stock "CR10" LCD display where you need to use the onboard SD card to load files. The recommended TFT displays have USB and SD ports on them so this is not necessary to do for them. For the TFT displays you can use SKR Mini3.stl, but if you want to update firmware you will have to find a way to get to the MicroSD onboard to carry out that update. I recommend using the SKR Mini5.stl!
 
-You will have to use Arduino IDE to compile this as there is not PlatformIO file for it. You have to install the Sanguino boards to compile. I have included the file for this here.
+You will have to use Arduino IDE to compile this as there is not a PlatformIO file for it. You have to install the Sanguino boards to compile. I have included the file for this here.
