@@ -1,7 +1,7 @@
 # Crealtiy-1.1.4-to-Printrbot-Play
 A firmware and configs to use a Creality 1.1.4 board in a Printrbot Play
 
-UNTESTED as yet.
+UNTESTED as yet. WORK IN PROGRESS, use at own risk.
 
 The Creality 1.1.4 Board can be used in a Printrbot Play to replace an inoperable printrboard. The connectors have to be switched
 from Molex and Dupont connectors to JST-XH. There is a set of adapters called "Adaptrboards" in development that will make this 
